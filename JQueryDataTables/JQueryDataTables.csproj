@@ -77,6 +77,8 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="server-data.xlsx" />
+    <None Include="Properties\PublishProfiles\jquerydatatables - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\jquerydatatables - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
