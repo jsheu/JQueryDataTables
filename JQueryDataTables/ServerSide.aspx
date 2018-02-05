@@ -936,7 +936,7 @@ table.dataTable .comments span
 		<p>
 			DataTables typically are used in client-side mode.  But if there are a large number of records, the filtering and sorting features can suffer in performance.  
 			With server-side mode, the filtering and sorting is performed in the code-behind for faster responses.  In production, the data comes from the SQL database.  
-			In this demo, the data comes from an Excel spreadsheet.
+			In this demo, the data comes from an Excel spreadsheet.  Also in production, the action buttons open other form pages for the selected record. 
 		</p>
 
 
